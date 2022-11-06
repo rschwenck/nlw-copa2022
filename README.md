@@ -1,30 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@rschwenck 
-sergio-slima
-/
-nlw-calendario-copa
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-nlw-calendario-copa/README.md
-@sergio-slima
-sergio-slima Add files via upload
-Latest commit a557c7a 2 days ago
- History
- 1 contributor
-48 lines (32 sloc)  1.51 KB
-
 <h1 align="center"> Calendário Copa | NLW </h1>
 
 <p align="center">
